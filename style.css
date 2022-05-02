@@ -1,0 +1,91 @@
+/*===>HEADER<===*/
+.header {
+    background-color: #beeaea;
+    height: 90px;
+}
+.header-logo {
+    font-family: 'Share Tech Mono';
+    font-size: 40px;
+    float: left;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+.header-list li {
+    list-style: none;
+    float: left;
+    padding: 40px 30px;
+}
+/*===>MAIN<===*/
+.main {
+    padding: 100px 80px;
+}
+.copy-container h1 {
+    font-size: 35px;
+    text-align: justify;
+}
+.copy-container h3 {
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+.copy-container span {
+    font-size: 55px;
+    color: #ff7f50;
+}
+/*===>CONTENTS<===*/
+.section-title {
+    border-bottom: 2px solid #363636;
+    padding-top: 15px;
+}
+h4 {
+    padding-bottom: 15px;
+    font-size: 25px;
+}
+.wrapper-contents {
+    display: flex;
+    justify-content: center;
+}
+.contents-item {
+    margin-right: 70px;
+    padding-top: 60px;
+}
+.contents-item p {
+    font-size: 20px;
+    text-align: center;
+}
+/*===>CONTACT-FORM<===*/
+.contact-form {
+    padding-top: 100px;
+}
+input,textarea {
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 20px;
+    font-size: 18px;
+    border: 1px solid #dee7ec;
+}
+.contact-submit {
+    background-color: #dee7ec;
+    color: #889eab;
+}
+/*===>FOOTER<===*/
+.footer {
+    background-color: #beeaea;
+    height: 120px;
+    padding: 10px;
+
+}
+.footer-logo {
+    font-size: 30px;
+    float: left;
+    padding: 40px
+}
+.footer-list {
+    float: right;
+}
+.footer-list li {
+    list-style: none;
+    padding-bottom: 20px;
+}
